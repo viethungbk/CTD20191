@@ -1,0 +1,4 @@
+Program Example100; (* Factorial *)
+CONST MAX = +10;
+Begin
+End. (* Factorial *)
